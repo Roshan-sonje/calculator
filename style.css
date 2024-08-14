@@ -60,6 +60,12 @@ input::placeholder{
     color: greenyellow;
 }
 
+.row .orange{
+    background-color: rgb(192, 130, 15);
+    color: black;
+    font-weight: 600;
+}
+
 @media screen and (max-width: 520px){
     h1{
         font-size: 30px;
